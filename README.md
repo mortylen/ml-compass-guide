@@ -1,6 +1,6 @@
-# ML Compass
+# ML Compass Guide
 
-Welcome to ML Compass!
+Welcome to ML Compass.
 
 This is a personal project I’m developing solo in my spare time, mostly during nights after my full-time job. As this is a one-man show, progress might be gradual, so I appreciate your patience and support while I build this resource step by step.
 
@@ -13,7 +13,7 @@ ML Compass aims to be a comprehensive, easy-to-use library and guide for machine
 - Access code examples in multiple programming languages  
 - Learn best practices for data preparation and evaluation
 
-> 🌐 This GitHub repository complements the [official web app](https://mlcompass.dev), where you can visually explore the decision structure and find algorithms tailored to your needs.
+> 🌐 This GitHub repository complements the [official web app](https://mlcompassguide.dev), where you can visually explore the decision structure and find algorithms tailored to your needs.
 
 Thank you for visiting and supporting the project!
 ---
@@ -36,7 +36,7 @@ The first milestone (v0.1) will include:
 ## 📁 Repository Structure
 
 ```bash
-ml-compass/
+ml-compass-guide/
 ├── examples/               # Code examples of each algorithm
 ├── preprocessing/          # Data cleaning & preparation methods
 ├── metrics/                # Evaluation metrics
