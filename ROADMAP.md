@@ -26,6 +26,7 @@ It is divided into phases and will be updated as the project evolves.
 ## Phase 3: Refinement & Community Involvement
 
 - [ ] Collect feedback from early users
+- [ ] Write a few articles
 
 ---
 
