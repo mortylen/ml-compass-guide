@@ -18,7 +18,8 @@ It is divided into phases and will be updated as the project evolves.
 
 ## Phase 2: Content Expansion
 
-- [ ] ...
+- [ ] Add codes for basic metrics (ml-compass-guide-rust)
+- [ ] Add codes for basic maths (ml-compass-guide-rust)
 
 ---
 
