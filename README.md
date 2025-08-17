@@ -1,35 +1,30 @@
 # ML Compass Guide
 
-Welcome to ML Compass.
+Welcome to ML Compass Guide.
 
-This is a personal project I’m developing solo in my spare time, mostly during nights after my full-time job. As this is a one-man show, progress might be gradual, so I appreciate your patience and support while I build this resource step by step.
+> The **main hub for web site:**
+> [mlcompassguide.dev](https://mlcompassguide.dev)
 
-This project is not only meant to help developers, students, and researchers, but also serves as a way for me to deepen my own understanding of machine learning algorithms, data preprocessing techniques, and evaluation metrics.
+This is a personal, long-term project I’m building in my spare time. Since it’s a one-person effort, development will progress step by step.
+thank you for your patience and support along the way.
 
-ML Compass aims to be a comprehensive, easy-to-use library and guide for machine learning, designed to help users:
+The goal of ML Compass is to be a practical guide and reference point for machine learning. It’s designed to help developers, students, and researchers (as well as myself, while learning) to:
 
-- Quickly grasp core ML concepts  
-- Compare algorithm use cases across categories  
-- Access code examples in multiple programming languages  
-- Learn best practices for data preparation and evaluation
+- Navigate core ML concepts quickly.
+- Compare algorithms and their use cases across categories.
+- Explore code examples in Rust.
+- Learn best practices for preprocessing and evaluation.
 
-> 🌐 This GitHub repository complements the [official web app](https://mlcompassguide.dev), where you can visually explore the decision structure and find algorithms tailored to your needs.
+Thank you for visiting the project!
 
-Thank you for visiting and supporting the project!
 ---
 
-## 🚧 Project Status
+## 🌐 Explore the Project
 
-This repository is currently in **active development (MVP stage)**.  
-Initial algorithms, articles, and examples are being added gradually.
-
-The first milestone (v0.1) will include:
-
-- ✅ 3–5 of the most commonly used ML algorithms  
-- ✅ Implementations in Python or Rust (other languages coming later)  
-- ✅ Evaluation metrics such as MSE, MAE, RMSE, R²  
-- ✅ Data preprocessing techniques (normalization, scaling, encoding, etc.)  
-- ✅ Accompanying articles for each algorithm
+- Web App (main resource): [official web app](https://mlcompassguide.dev)
+- Code Examples (Rust): [ml-compass-guide-rust](https://github.com/mortylen/ml-compass-guide-rust)
+- Changelog: [CHANGELOG](./CHANGELOG.md)
+- Roadmap: [ROADMAP](./ROADMAP.md)
 
 ---
 
@@ -37,21 +32,11 @@ The first milestone (v0.1) will include:
 
 ```bash
 ml-compass-guide/
-├── examples/               # Code examples of each algorithm
-├── preprocessing/          # Data cleaning & preparation methods
-├── metrics/                # Evaluation metrics
-├── articles/               # Blog-style explanations for algorithms
-├── LICENSE
-└── README.md               # This file
+├── CHANGELOG.md   # Project updates & version history
+├── LICENSE        # Licensing information (MIT)
+├── README.md      # You are here
+└── ROADMAP.md     # Future plans and milestones
 ```
-
----
-
-## ✨ Project Goals
-
-- Centralize theory, implementation, and examples in one place  
-- Help users pick and apply the right algorithm for their task  
-- Support multiple programming languages for educational and practical use   
 
 ---
 
