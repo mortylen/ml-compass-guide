@@ -1,6 +1,8 @@
 # ML Compass Guide
 
-Welcome to ML Compass Guide.
+Welcome.
+
+ML Compass Guide is an educational project aimed at helping developers, students, and researchers learn machine learning concepts and practices.
 
 > The **main hub for web site:**
 > [mlcompassguide.dev](https://mlcompassguide.dev)
