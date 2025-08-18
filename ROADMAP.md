@@ -33,5 +33,6 @@ It is divided into phases and will be updated as the project evolves.
 ## Long-Term Goals
 
 - [ ] Add advanced metrics and visualizations
+- [ ] Add advanced algorithm
 - [ ] Explore bindings/examples in other languages (Python, etc.)
 - [ ] Establish stable **v1.0.0** release
