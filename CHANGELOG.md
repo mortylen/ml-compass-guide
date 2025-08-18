@@ -21,7 +21,7 @@ This format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and
   - [CHANGELOG](./CHANGELOG.md) for version tracking.  
   - [ROADMAP](./ROADMAP.md) outlining future plans and milestones.  
   - [LICENSE](./LICENSE) (MIT).  
-- Linked to the **official web app** ([mlcompassguide.dev](https://mlcompassguide.dev)).  
+- Publish the **official website** ([mlcompassguide.dev](https://mlcompassguide.dev)).  
 - Linked to the companion repository with **Rust code examples**.
 
 ### Note
