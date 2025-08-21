@@ -12,7 +12,7 @@ This format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and
 
 ---
 
-## [0.1.0] - 2025-08-23
+## [0.1.0] - 2025-08-22
 
 ### Added
 - Initial public release of **ML Compass Guide** project hub.  
