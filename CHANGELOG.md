@@ -12,6 +12,17 @@ This format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and
 
 ---
 
+## [0.1.1] - 2025-08-26
+
+### Removed
+- Unused JavaScript code to improve performance and security.
+
+### Fixed
+- Improper use of <h> tags — replaced with correct heading structure.
+
+### Changed
+- Updated meta description for better SEO.
+
 ## [0.1.0] - 2025-08-22
 
 ### Added
