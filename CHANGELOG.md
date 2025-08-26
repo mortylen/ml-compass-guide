@@ -8,7 +8,7 @@ This format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and
 ## [Unreleased]
 
 ### Added
-- Upcoming improvements and features will be tracked here.
+- The blog page - contains links to articles about ML.
 
 ---
 
