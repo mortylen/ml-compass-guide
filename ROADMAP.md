@@ -11,8 +11,8 @@ It is divided into phases and will be updated as the project evolves.
 - [x] Add ROADMAP
 - [x] Add README
 - [x] Add CHANGELOG
-- [ ] Publish **initial version of the web app** (content incomplete, work in progress)
-- [ ] Publish **public repository with Rust code examples**
+- [x] Publish **initial version of the web app** (content incomplete, work in progress)
+- [x] Publish **public repository with Rust code examples**
 
 ---
 
