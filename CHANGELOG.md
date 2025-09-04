@@ -12,6 +12,19 @@ This format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and
 
 ---
 
+## [0.1.2] - 2025-09-04
+
+### Add
+- Added webp image format
+- hreflang tag
+- twitter:card
+
+### Fixed
+- Math tag in Logistic Regression
+
+### Changed
+- Title and description on the main page
+
 ## [0.1.1] - 2025-08-26
 
 ### Removed
