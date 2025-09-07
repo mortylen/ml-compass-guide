@@ -19,7 +19,7 @@ This format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and
 - rel="me" links verification
 
 ### Fixed
-- Decision sites <h5> to <h4>
+- Decision sites headings h5 to h4
 
 ### Changed
 - Footer style
