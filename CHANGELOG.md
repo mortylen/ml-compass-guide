@@ -12,6 +12,20 @@ This format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and
 
 ---
 
+## [0.1.4] - 2025-09-10
+
+### Add
+- fediverse:creator for techhub.social (mastodon)
+- Share buttons for social networks
+- GIZP compression
+
+### Fixed
+- Empty space on top (mobile)
+
+### Changed
+- Change top nav bar for mobile
+- Code Example style
+
 ## [0.1.3] - 2025-09-07
 
 ### Add
